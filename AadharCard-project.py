@@ -9,9 +9,9 @@ if age >= 18:
         else:
             print("you're suppose to renew your AadharCard")
     #elif AadharCard == "no":
-        #print("apply for aadhar")
+        #print("Please Apply for AadharCard then You will be Eligible")
     else:
-        print("Please Apply for AadharCard then You will be Eligible")
+        print('Please Answer, AadharCard available in "yes/no"')
 else:
     print("you're not eligible, your age is below 18")
     print("BETTER LUCK NEXT TIME, SORRY FOR INCONVENIENCE")
