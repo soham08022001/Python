@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd59e275-04f9-45f8-a408-192c8555919e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/break-continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/break-continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
-    </list>
+    <list default="true" id="fd59e275-04f9-45f8-a408-192c8555919e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -34,6 +40,7 @@
     "Python.Calculator-mini-project.executor": "Run",
     "Python.break-continue.executor": "Run",
     "Python.calcy.executor": "Run",
+    "Python.class-practice.executor": "Run",
     "Python.class.executor": "Run",
     "Python.first.executor": "Run",
     "Python.fizz-buzz_project.executor": "Run",
