@@ -11,4 +11,4 @@ while True:
         users.append(name)
         print(users)
         print(f'new user added: {name}')
-        print("Type 'quit' for Exit")
+        print("Type 'exit' for Quit")
