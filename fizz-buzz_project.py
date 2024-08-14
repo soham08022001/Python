@@ -4,7 +4,7 @@ for num in range(1, number+1):
     result = ""
     if num % 3 == 0:
         result = result + "fizz"
-        if num % 5 ==0:
+        if num % 5 == 0:
             result = result + "bizz"
     elif num % 5 == 0:
         result = result + "buzz"
